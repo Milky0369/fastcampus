@@ -13,4 +13,8 @@ public class Student {
 	public void showStudentInfo() { // 매개변수 영역
 		System.out.println(studentName + ", " + address);
 	}
+	
+	public String getStudentName() {
+		return studentName;
+	}
 }
