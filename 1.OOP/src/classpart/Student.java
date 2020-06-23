@@ -9,6 +9,17 @@ public class Student {
 	String studentName;
 	String address;
 	
+	public Student() {}
+	
+	public Student(String name) {
+		studentName = name;
+	}
+	
+	public Student(int id, String name) {
+		studentId = id;
+		studentName = name;
+		address = "주소 없음";
+	}
 	
 	public void showStudentInfo() { // 매개변수 영역
 		System.out.println(studentName + ", " + address);
@@ -16,12 +27,6 @@ public class Student {
 	
 	public String getStudentName() {
 		return studentName;
-	}
-	
-	public static void main(String[] args) {
-		Student studentPark = new Student();
-		studentPark.studentName = "박은종";
-		studentPark.showStudentInfo();
 	}
 	
 }
