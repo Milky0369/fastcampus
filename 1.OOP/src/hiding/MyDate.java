@@ -16,6 +16,7 @@ public class MyDate {
 	public void setYear(int year) {
 		// this를 사용하는 이유는 보통 매개변수와 멤버변수의 이름을 같이해야 한다.
 		// 만일 this를 빼면 day에 day를 대입하는 결과가 발생하기 때문에 멤버변수에 값이 들어가지 않게 된다.
+		// this를 사용하여 멤버변수의 메모리 주소값을 가리키게 한다.
 		this.year = year;
 	}
 	
