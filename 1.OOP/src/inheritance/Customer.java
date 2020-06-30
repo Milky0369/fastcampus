@@ -2,11 +2,11 @@ package inheritance;
 
 public class Customer {
 	
-	private int custId;
-	private String custName;
-	private String custGrade;
-	private int bonusPoint;
-	private double bonusRatio;
+	protected int custId;
+	protected String custName;
+	protected String custGrade;
+	protected int bonusPoint;
+	protected double bonusRatio;
 	
 	public Customer() {
 		custGrade = "SILVER";
