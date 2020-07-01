@@ -8,9 +8,21 @@ public class Customer {
 	protected int bonusPoint;
 	protected double bonusRatio;
 	
-	public Customer() {
+//	public Customer() {
+//		custGrade = "SILVER";
+//		bonusRatio = 0.01;
+//		
+//		System.out.println("Customer() 생성자 호출");
+//	}
+	
+	public Customer(int custId, String custName) {
+		this.custId = custId;
+		this.custName = custName;
+		
 		custGrade = "SILVER";
 		bonusRatio = 0.01;
+		
+		System.out.println("Customer() 생성자 호출");
 	}
 	
 	public int calcPrice(int price) {
