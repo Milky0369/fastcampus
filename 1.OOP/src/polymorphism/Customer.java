@@ -22,16 +22,20 @@ public class Customer {
 		custGrade = "SILVER";
 		bonusRatio = 0.01;
 		
-		System.out.println("Customer() 생성자 호출");
+//		System.out.println("Customer() 생성자 호출");
 	}
 	
 	public int calcPrice(int price) {
 		bonusPoint += price * bonusRatio;
+		
+		System.out.println(custName + "님의 지불 금액은 " + price + "원 입니다.");
+		System.out.println(this.showCustomerInfo());
+		
 		return price;
 	}
 	
 	public String showCustomerInfo() {
-		return custName + "님의 등급은 " + custGrade + "이며 적립된 보너스 포인트는 " + bonusPoint + "점 입니다.";
+		return custName + "님의 등급은 " + custGrade + "이며 적립된 보너스 포인트는 " + bonusRatio * 100 + "% 적립되어 " + bonusPoint + "점 입니다.";
 	}
 
 	public int getCustId() {
