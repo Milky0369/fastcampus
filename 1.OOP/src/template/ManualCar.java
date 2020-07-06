@@ -13,4 +13,16 @@ public class ManualCar extends Car {
 		System.out.println("브레이크를 밟아서 정지합니다.");
 	}
 
+	@Override
+	public void startCar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void turnOff() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

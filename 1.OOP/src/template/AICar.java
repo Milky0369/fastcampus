@@ -13,4 +13,16 @@ public class AICar extends Car {
 		System.out.println("자동차가 스스로 멈춥니다.");
 	}
 
+	@Override
+	public void startCar() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void turnOff() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

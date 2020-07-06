@@ -1,18 +1,33 @@
 package template;
 
+import java.util.ArrayList;
+
 public class CarTest {
 
 	public static void main(String[] args) {
 		
-		AICar aiCar = new AICar();
+//		AICar aiCar = new AICar();
+//		
+//		aiCar.run();
+//		
+//		System.out.println("==========================================");
+//		
+//		Car manualCar = new ManualCar();
+//		
+//		manualCar.run();
 		
-		aiCar.run();
+		ArrayList<Car> carList = new ArrayList<Car>();
 		
-		System.out.println("==========================================");
+		carList.add(new Sonata());
+		carList.add(new Grandeur());
+		carList.add(new Avante());
+		carList.add(new Genesis());
 		
-		Car manualCar = new ManualCar();
+		for(Car car : carList) {
+			car.run();
+			System.out.println("==========================================");
+		}
 		
-		manualCar.run();
 	}
 	
 }
