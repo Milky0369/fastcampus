@@ -20,7 +20,7 @@ public class StringBuilderTest {
         System.out.println(System.identityHashCode(java));
 
         System.out.println(java);
-        
+
     }
 
 }
