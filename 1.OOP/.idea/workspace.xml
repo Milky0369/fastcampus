@@ -57,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListTest">
+  <component name="RunManager" selected="Application.StackTest">
     <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generic.GenericPrinterTest" />
       <module name="1.OOP" />
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringBuilderTest" />
+    <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.StackTest" />
       <module name="1.OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringTest" />
+    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringBuilderTest" />
       <module name="1.OOP" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.GenericPrinterTest" />
         <item itemvalue="Application.StringBuilderTest" />
         <item itemvalue="Application.StringTest2" />
-        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <updated>1596546491308</updated>
       <workItem from="1596546494685" duration="4143000" />
       <workItem from="1596550969547" duration="5000" />
-      <workItem from="1596550981947" duration="7732000" />
+      <workItem from="1596550981947" duration="8896000" />
     </task>
     <servers />
   </component>
@@ -218,9 +218,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596976721622">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597067171273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976721622" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597067171273" />
   </component>
 </project>
