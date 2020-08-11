@@ -57,13 +57,26 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.StackTest">
+  <component name="RunManager" selected="Application.MemberHashSetTest">
     <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="generic.GenericPrinterTest" />
       <module name="1.OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.HashSetTest" />
+      <module name="1.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,38 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MemberHashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.MemberHashSetTest" />
+      <module name="1.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.StackTest" />
       <module name="1.OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringBuilderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringBuilderTest" />
-      <module name="1.OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringTest2" />
-      <module name="1.OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberHashSetTest" />
+        <item itemvalue="Application.HashSetTest" />
         <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.LinkedListTest" />
         <item itemvalue="Application.GenericPrinterTest" />
-        <item itemvalue="Application.StringBuilderTest" />
-        <item itemvalue="Application.StringTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <updated>1596546491308</updated>
       <workItem from="1596546494685" duration="4143000" />
       <workItem from="1596550969547" duration="5000" />
-      <workItem from="1596550981947" duration="8896000" />
+      <workItem from="1596550981947" duration="10971000" />
     </task>
     <servers />
   </component>
@@ -178,10 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596547444869" />
-    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596548295954">
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597155409875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596548295954" />
+    <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155409875" />
     <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1596976525547">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -194,22 +194,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596547442348" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596976941341">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597156127658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976941341" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596976941340">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156127658" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597156127656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976941340" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596976941340">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156127656" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597156127655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976941340" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596976941341">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156127655" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597156127657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976941341" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156127657" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596549640832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,9 +218,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597067171273">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597155927956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597067171273" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155927956" />
   </component>
 </project>
