@@ -23,7 +23,7 @@ public class MemberHashSetTest {
 
         manager.removeMember(1);
 
-        manager.showAllMember();
+        manager.showAllMember(); 
 
     }
 
