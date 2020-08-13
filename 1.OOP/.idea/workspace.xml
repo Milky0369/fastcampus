@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -45,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/treeset" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,20 +60,15 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MemberHashSetTest">
-    <configuration name="GenericPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generic.GenericPrinterTest" />
-      <module name="1.OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="treeset" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\app\Git\repository\fastcampus\1.OOP\src\treeset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TreeSetTest">
     <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="set.HashSetTest" />
       <module name="1.OOP" />
@@ -123,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treeset.TreeSetTest" />
+      <module name="1.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treeset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeSetTest" />
         <item itemvalue="Application.MemberHashSetTest" />
         <item itemvalue="Application.HashSetTest" />
         <item itemvalue="Application.StackTest" />
         <item itemvalue="Application.LinkedListTest" />
-        <item itemvalue="Application.GenericPrinterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +165,7 @@
       <updated>1596546491308</updated>
       <workItem from="1596546494685" duration="4143000" />
       <workItem from="1596550969547" duration="5000" />
-      <workItem from="1596550981947" duration="12176000" />
+      <workItem from="1596550981947" duration="13797000" />
     </task>
     <servers />
   </component>
@@ -182,34 +193,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155409875" />
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1596976525547">
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597328260755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596976525547" />
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597328260755" />
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596548321418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596548321418" />
+    <state x="697" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597327884676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="697" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597327884676" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1596547442348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596547442348" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597156321004">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597327543972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156321004" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597156321003">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597327543972" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597327543971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156321003" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597156321003">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597327543971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597327543971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156321003" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597156321004">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597327543971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597327543972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597156321004" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597327543972" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596549640832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -218,9 +233,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597155927956">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597328186902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155927956" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597328186902" />
   </component>
 </project>
