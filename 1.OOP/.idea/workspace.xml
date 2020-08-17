@@ -31,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -169,7 +170,7 @@
       <workItem from="1596550969547" duration="5000" />
       <workItem from="1596550981947" duration="16947000" />
       <workItem from="1597478927919" duration="1603000" />
-      <workItem from="1597560499522" duration="620000" />
+      <workItem from="1597560499522" duration="4393000" />
     </task>
     <servers />
   </component>
@@ -197,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155409875" />
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597560565696">
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597651930129">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597560565696" />
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597651930129" />
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596548321418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -237,9 +238,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597560954757">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597666799488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597560954757" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597666799488" />
   </component>
 </project>
