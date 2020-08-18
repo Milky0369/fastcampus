@@ -137,17 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.InnerTest" />
@@ -170,7 +159,8 @@
       <workItem from="1596550969547" duration="5000" />
       <workItem from="1596550981947" duration="16947000" />
       <workItem from="1597478927919" duration="1603000" />
-      <workItem from="1597560499522" duration="4393000" />
+      <workItem from="1597560499522" duration="5056000" />
+      <workItem from="1597757579147" duration="1970000" />
     </task>
     <servers />
   </component>
@@ -238,9 +228,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597666799488">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597759522350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597666799488" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597759522350" />
   </component>
 </project>
