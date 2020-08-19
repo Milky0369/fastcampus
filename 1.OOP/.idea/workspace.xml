@@ -137,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.InnerTest" />
@@ -160,7 +173,7 @@
       <workItem from="1596550981947" duration="16947000" />
       <workItem from="1597478927919" duration="1603000" />
       <workItem from="1597560499522" duration="5056000" />
-      <workItem from="1597757579147" duration="1970000" />
+      <workItem from="1597757579147" duration="3791000" />
     </task>
     <servers />
   </component>
@@ -188,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155409875" />
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597651930129">
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597843470952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597651930129" />
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597843470952" />
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596548321418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,9 +241,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597759522350">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597843185033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597759522350" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597843185033" />
   </component>
 </project>
