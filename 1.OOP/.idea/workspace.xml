@@ -71,7 +71,20 @@
       <recent name="D:\app\Git\repository\fastcampus\1.OOP\src\treeset" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InnerTest">
+  <component name="RunManager" selected="Application.CustomerTest">
+    <configuration name="CustomerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.CustomerTest" />
+      <module name="1.OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="innerclass.InnerTest" />
       <module name="1.OOP" />
@@ -91,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="collection.hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MemberHashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.MemberHashSetTest" />
-      <module name="1.OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomerTest" />
         <item itemvalue="Application.InnerTest" />
         <item itemvalue="Application.MemberHashMapTest" />
         <item itemvalue="Application.MemberTreeMapTest" />
         <item itemvalue="Application.TreeSetTest" />
-        <item itemvalue="Application.MemberHashSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,7 @@
       <workItem from="1596550981947" duration="16947000" />
       <workItem from="1597478927919" duration="1603000" />
       <workItem from="1597560499522" duration="5056000" />
-      <workItem from="1597757579147" duration="3791000" />
+      <workItem from="1597757579147" duration="5027000" />
     </task>
     <servers />
   </component>
@@ -201,10 +201,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597155409875" />
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597843470952">
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1597932072185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597843470952" />
+    <state x="717" y="221" key="#com.intellij.ide.util.MemberChooser/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932072185" />
     <state x="779" y="210" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1596548321418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,22 +217,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597404240315" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597498501980">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597932436354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597498501980" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597498501979">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932436354" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597932436348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597498501979" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597498501978">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932436348" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597932436346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597498501978" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597498501979">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932436346" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597932436351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597498501979" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932436351" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596549640832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,9 +241,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596635045924" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597843185033">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597932135156">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597843185033" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597932135156" />
   </component>
 </project>
