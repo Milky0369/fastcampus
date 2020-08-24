@@ -19,7 +19,6 @@ public class ArrayListStreamTest {
         // 리스트 내의 대상을 출력하고 싶을때
         stream.forEach( s -> System.out.println(s) );
 
-
         // sort 하고 싶을때, if compareable이 구현되어 있을때 사용가능.
         list.parallelStream().sorted().forEach( s -> System.out.println(s));
 
